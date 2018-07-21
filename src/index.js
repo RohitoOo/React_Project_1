@@ -10,39 +10,39 @@ window.data =  {
 	image: 'https://scontent.fhyd2-1.fna.fbcdn.net/v/t1.0-9/19895028_10211949426644823_8064490458382315371_n.jpg?_nc_cat=0&oh=66a25efea8a97ff374909960f835362e&oe=5B992E3B',
 	details: [
 		{
-			provider: 'facebook',
+			provider: 'Facebook',
 			username: 'Rohito',
-			engagement: ['personal'],
+			engagement: ['Personal'],
 			link: ''
 		},
 		{
-			provider: 'github',
+			provider: 'Github',
 			username: 'RohitoOo',
-			engagement: ['professional'],
+			engagement: ['Professional'],
 			link: 'https://github.com/rohitoOo'
 		},
 		{
-			provider: 'gmail',
+			provider: 'Gmail',
 			username: 'bhambhani.ba@gmail.com',
-			engagement: ['professional', 'personal'],
+			engagement: ['Professional', 'Personal'],
 		},
 		{
-			provider: 'youtube',
+			provider: 'Youtube',
 			channel: 'Rohito',
 			url: 'https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/featured',
-			engagement: ['professional'],
+			engagement: ['Professional'],
 		},
 		{
-			provider: 'instagram',
+			provider: 'Instagram',
 			type: 'photos',
 			url: 'https://www.instagram.com/rrrohito/?hl=en',
-			engagement: ['personal'],
+			engagement: ['Personal'],
 		},
 		{
-			provider: 'linkedIn',
+			provider: 'LinkedIn',
 			type: 'photos',
 			url: 'https://www.linkedin.com/in/rohitbhambhani/',
-			engagement: ['professional'],
+			engagement: ['Professional'],
 		}
 	]
 }
