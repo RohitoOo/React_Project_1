@@ -6,36 +6,42 @@ import registerServiceWorker from './registerServiceWorker';
 
 window.data =  {
 	firstName: 'Rohito',
-	lastName: 'M',
+	lastName: 'Bhambhani',
 	image: 'https://scontent.fhyd2-1.fna.fbcdn.net/v/t1.0-9/19895028_10211949426644823_8064490458382315371_n.jpg?_nc_cat=0&oh=66a25efea8a97ff374909960f835362e&oe=5B992E3B',
 	details: [
 		{
 			provider: 'facebook',
-			username: 'mak11195',
+			username: 'Rohito',
 			engagement: ['personal'],
 			link: ''
 		},
 		{
 			provider: 'github',
-			username: 'makaravind',
+			username: 'RohitoOo',
 			engagement: ['professional'],
-			link: 'https://github.com/makaravind'
+			link: 'https://github.com/rohitoOo'
 		},
 		{
 			provider: 'gmail',
-			username: 'aravindmetku@gmail.com',
+			username: 'bhambhani.ba@gmail.com',
 			engagement: ['professional', 'personal'],
 		},
 		{
 			provider: 'youtube',
-			channel: 'amyourmove',
-			url: 'youtube.com/c/amyourmove',
+			channel: 'Rohito',
+			url: 'https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/featured',
 			engagement: ['professional'],
 		},
 		{
-			provider: 'wordpress',
-			type: 'blog',
-			url: 'https://maravindblog.wordpress.com',
+			provider: 'instagram',
+			type: 'photos',
+			url: 'https://www.instagram.com/rrrohito/?hl=en',
+			engagement: ['personal'],
+		},
+		{
+			provider: 'linkedIn',
+			type: 'photos',
+			url: 'https://www.linkedin.com/in/rohitbhambhani/',
 			engagement: ['professional'],
 		}
 	]
